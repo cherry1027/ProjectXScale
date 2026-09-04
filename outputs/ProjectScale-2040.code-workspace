@@ -1,0 +1,12 @@
+{
+  "folders": [
+    {
+      "name": "ProjectScale 2040",
+      "path": "../work"
+    }
+  ],
+  "settings": {
+    "editor.formatOnSave": true,
+    "typescript.tsdk": "node_modules/typescript/lib"
+  }
+}
